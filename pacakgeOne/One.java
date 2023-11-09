@@ -10,6 +10,8 @@ public class One {
         System.out.println("Feature Second Commit");
         System.out.println("Feature Third Commit");
 
+        System.out.println("Forth Commit");
+
 
     }
 }
