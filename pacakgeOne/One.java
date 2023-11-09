@@ -8,6 +8,7 @@ public class One {
 
         System.out.println("Feature First Commit");
         System.out.println("Feature Second Commit");
+        System.out.println("Feature Third Commit");
 
 
     }
