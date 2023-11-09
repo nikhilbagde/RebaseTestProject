@@ -15,6 +15,7 @@ public class One {
         System.out.println("Sixth Commit");
 
         System.out.println("Feature-CR-7.0 First Commit");
+        System.out.println("Feature-CR-7.0 Second Commit");
 
 
 
