@@ -7,10 +7,5 @@ public class One {
         System.out.println("Second Commit");
         System.out.println("Third Commit");
 
-        System.out.println("First Commit 2.1");
-        System.out.println("Second Commit 2.1");
-        System.out.println("Third Commit 2.1");
-
-
     }
 }
