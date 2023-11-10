@@ -13,7 +13,5 @@ public class One {
         System.out.println("Third.3 Commit");
         System.out.println("Third.4 Commit");
         System.out.println("Third.5 Commit");
-
-
     }
 }
